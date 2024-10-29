@@ -1,0 +1,5 @@
+
+zpython:S117"^Rename this local variable "dataList_dict" to match the regular expression ^[_a-z][a-z0-9_]*$.(ŒèÇúÿÿÿÿ
+|python:S117"`Rename this local variable "dataLoader_dict" to match the regular expression ^[_a-z][a-z0-9_]*$.(ŒèÇúÿÿÿÿ
+zpython:S117"^Rename this local variable "filePath_dict" to match the regular expression ^[_a-z][a-z0-9_]*$.(ŒèÇúÿÿÿÿ
+kpython:S3776!"TRefactor this function to reduce its Cognitive Complexity from 27 to the 15 allowed.(ò‚ÚK

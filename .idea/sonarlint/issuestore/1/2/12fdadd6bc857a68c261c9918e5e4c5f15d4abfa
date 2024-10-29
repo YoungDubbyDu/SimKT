@@ -1,0 +1,6 @@
+
+vpython:S117<"_Rename this local variable "quesNum_delete" to match the regular expression ^[_a-z][a-z0-9_]*$.(ŽÁÌ¸
+wpython:S117<"`Rename this local variable "skillNum_delete" to match the regular expression ^[_a-z][a-z0-9_]*$.(ŽÁÌ¸
+Qpython:S1481"9Replace unused local variable "skill2pair_dict" with "_".(î®éÞ
+;python:S125"Remove this commented out code.(óþúôýÿÿÿÿ
+6python:S1257"Remove this commented out code.(ð­¨ö

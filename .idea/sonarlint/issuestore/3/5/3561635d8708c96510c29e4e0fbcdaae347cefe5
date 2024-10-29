@@ -1,0 +1,34 @@
+
+ipython:S1192"JDefine a constant instead of duplicating this literal 'SimQE+DKT' 3 times.(­İ8¯ó¹µ­2
+opython:S1192"PDefine a constant instead of duplicating this literal 'Times New Roman' 3 times.(”í¼“8Ÿ‡¦µ­2
+Rpython:S1172
+"3Remove the unused function parameter "factor_mode".(…×8­Ğµ­2
+Opython:S1172
+"0Remove the unused function parameter "auc_mode".(…×8­Ğµ­2
+kpython:S117
+"MRename this parameter "X" to match the regular expression ^[_a-z][a-z0-9_]*$.(…×8­Ğµ­2
+kpython:S117
+"MRename this parameter "Y" to match the regular expression ^[_a-z][a-z0-9_]*$.(…×8­Ğµ­2
+Bpython:S125"Remove this commented out code.(‚ô™şÿÿÿÿ8­Ğµ­2
+Bpython:S125"Remove this commented out code.( §ÂÑıÿÿÿÿ8“å µ­2
+=python:S125"Remove this commented out code.(Í™ÇÑ8­Ğµ­2
+Bpython:S125'"Remove this commented out code.(¼¦Ç±úÿÿÿÿ8­Ğµ­2
+Bpython:S125*"Remove this commented out code.(™ÓËşÿÿÿÿ8®Ğµ­2
+Bpython:S1253"Remove this commented out code.(ã“Òıüÿÿÿÿ8®Ğµ­2
+=python:S1257"Remove this commented out code.(éÎËÆ8®Ğµ­2
+=python:S125;"Remove this commented out code.(„Ï©Ğ8®Ğµ­2
+=python:S125n"Remove this commented out code.(±¯‹×8®Ğµ­2
+cpython:S930v"ERemove 2 unexpected arguments; 'draw' expects 5 positional arguments.(ÏÒË¦8®Ğµ­2
+xpython:S117y"URename this parameter "modelName" to match the regular expression ^[_a-z][a-z0-9_]*$.(é¹Ò§üÿÿÿÿ8®Ğµ­2
+>python:S125Œ"Remove this commented out code.(±¯‹×8®Ğµ­2
+>python:S125"Remove this commented out code.(­Ã³8®Ğµ­2
+>python:S125‘"Remove this commented out code.(–½Ò¥8®Ğµ­2
+Cpython:S125•"Remove this commented out code.(§ÅÍÆüÿÿÿÿ8®Ğµ­2
+Cpython:S125˜"Remove this commented out code.(×Ì¯–ÿÿÿÿÿ8®Ğµ­2
+>python:S125œ"Remove this commented out code.(¾÷¦8®Ğµ­2
+Cpython:S125Ÿ"Remove this commented out code.(¡ê¤õüÿÿÿÿ8®Ğµ­2
+>python:S125¡"Remove this commented out code.(ÿ¡ì¤8®Ğµ­2
+ypython:S117©"URename this parameter "modelName" to match the regular expression ^[_a-z][a-z0-9_]*$.(ˆö’ÿúÿÿÿÿ8®Ğµ­2
+Cpython:S125»"Remove this commented out code.(ÄûÎûÿÿÿÿ8®Ğµ­2
+>python:S125¾"Remove this commented out code.(Ÿåóï8®Ğµ­2
+Cpython:S125Ã"Remove this commented out code.(é«ÎÅùÿÿÿÿ8®Ğµ­2

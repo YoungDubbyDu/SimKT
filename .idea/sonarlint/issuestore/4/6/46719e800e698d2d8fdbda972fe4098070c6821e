@@ -1,0 +1,23 @@
+
+python:S101"eRename class "attnVec_dot" to match the regular expression ^_?([A-Z_][a-zA-Z0-9]*|[a-z_][a-z0-9_]*)$.(¨€®Ôÿÿÿÿÿ
+tpython:S117"XRename this parameter "num_mataPath" to match the regular expression ^[_a-z][a-z0-9_]*$.(Æ¤Üíüÿÿÿÿ
+„python:S101"hRename class "attnVec_dot_fc" to match the regular expression ^_?([A-Z_][a-zA-Z0-9]*|[a-z_][a-z0-9_]*)$.(±óğŸùÿÿÿÿ
+tpython:S117"XRename this parameter "num_mataPath" to match the regular expression ^[_a-z][a-z0-9_]*$.(Æ¤Üíüÿÿÿÿ
+‡python:S1010"kRename class "attnVec_nonLinear" to match the regular expression ^_?([A-Z_][a-zA-Z0-9]*|[a-z_][a-z0-9_]*)$.(›• ±ûÿÿÿÿ
+tpython:S1172"XRename this parameter "num_metaPath" to match the regular expression ^[_a-z][a-z0-9_]*$.(¨ÚÕûÿÿÿÿ
+;python:S125B"Remove this commented out code.(ú«á…ıÿÿÿÿ
+‡python:S101J"kRename class "attnMat_nonLinear" to match the regular expression ^_?([A-Z_][a-zA-Z0-9]*|[a-z_][a-z0-9_]*)$.(‰Ûó¬øÿÿÿÿ
+tpython:S117K"XRename this parameter "num_metaPath" to match the regular expression ^[_a-z][a-z0-9_]*$.(¨ÚÕûÿÿÿÿ
+Bpython:S1481N"%Remove the unused local variable "i".(õ×†åÿÿÿÿÿ
+zpython:S117S"^Rename this local variable "transEmb_list" to match the regular expression ^[_a-z][a-z0-9_]*$.(©‹÷éÿÿÿÿÿ
+;python:S125["Remove this commented out code.(ú…êÎúÿÿÿÿ
+Špython:S101a"nRename class "attnVec_nonLinear_fc" to match the regular expression ^_?([A-Z_][a-zA-Z0-9]*|[a-z_][a-z0-9_]*)$.(ŞˆÀÈúÿÿÿÿ
+tpython:S117b"XRename this parameter "num_metaPath" to match the regular expression ^[_a-z][a-z0-9_]*$.(¨ÚÕûÿÿÿÿ
+;python:S125s"Remove this commented out code.(ú«á…ıÿÿÿÿ
+‚python:S101|"fRename class "attnVec_topK" to match the regular expression ^_?([A-Z_][a-zA-Z0-9]*|[a-z_][a-z0-9_]*)$.(Ñ¨¡µıÿÿÿÿ
+tpython:S117}"XRename this parameter "num_metaPath" to match the regular expression ^[_a-z][a-z0-9_]*$.(¨ÚÕûÿÿÿÿ
+‚python:S101–"jRename class "concat_nonLinear" to match the regular expression ^_?([A-Z_][a-zA-Z0-9]*|[a-z_][a-z0-9_]*)$.(ÔŸÛæ
+upython:S117—"XRename this parameter "num_metaPath" to match the regular expression ^[_a-z][a-z0-9_]*$.(©©£¿úÿÿÿÿ
+Cpython:S125›"Remove this commented out code.(¿ÃÏêúÿÿÿÿ8ğÂ“Â­2
+„python:S101¤"mRename class "sa_concat_nonLinear" to match the regular expression ^_?([A-Z_][a-zA-Z0-9]*|[a-z_][a-z0-9_]*)$.(——Öl
+upython:S117¥"XRename this parameter "num_metaPath" to match the regular expression ^[_a-z][a-z0-9_]*$.(©©£¿úÿÿÿÿ

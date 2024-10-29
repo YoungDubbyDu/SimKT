@@ -1,0 +1,9 @@
+
+ppython:S117"YRename this local variable "AdjMat_c" to match the regular expression ^[_a-z][a-z0-9_]*$.(Á¿ 
+upython:S117"YRename this local variable "AdjMat_w" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ö‡Æøÿÿÿÿ
+spython:S117"WRename this local variable "quesID" to match the regular expression ^[_a-z][a-z0-9_]*$.(›”‚Êşÿÿÿÿ
+rpython:S117"VRename this local variable "stuID" to match the regular expression ^[_a-z][a-z0-9_]*$.(›”‚Êşÿÿÿÿ
+gpython:S1542"ORename function "qu_AdjMat" to match the regular expression ^[a-z_][a-z0-9_]*$.(Ğ²È³
+fpython:S117"PRename this parameter "A_qu" to match the regular expression ^[_a-z][a-z0-9_]*$.(ùË¦
+fpython:S117"PRename this parameter "B_qu" to match the regular expression ^[_a-z][a-z0-9_]*$.(ùË¦
+lpython:S117"URename this local variable "B_uq" to match the regular expression ^[_a-z][a-z0-9_]*$.(ºâ•Ó

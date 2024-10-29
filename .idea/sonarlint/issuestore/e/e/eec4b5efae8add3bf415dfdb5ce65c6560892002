@@ -1,0 +1,47 @@
+
+dpython:S1192E"MDefine a constant instead of duplicating this literal "%s_skill.csv" 4 times.(Îú¿y
+xpython:S1192:"[Define a constant instead of duplicating this literal "train_test/%s_question.txt" 3 times.(Æõøìşÿÿÿÿ
+qpython:S3776	"TRefactor this function to reduce its Cognitive Complexity from 27 to the 15 allowed.(õ½’Šıÿÿÿÿ
+Opython:S1481:"2Replace unused local variable "seq_lens" with "_".(Æõøìşÿÿÿÿ
+Npython:S1481:"1Replace unused local variable "answers" with "_".(Æõøìşÿÿÿÿ
+Ipython:S1481E"2Replace unused local variable "seq_lens" with "_".(Îú¿y
+Hpython:S1481E"1Replace unused local variable "answers" with "_".(Îú¿y
+Jpython:S1481P"2Replace unused local variable "seq_lens" with "_".(œªâÒ
+Ipython:S1481P"1Replace unused local variable "answers" with "_".(œªâÒ
+lpython:S117e"URename this local variable "Gini" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ê€£©
+qpython:S1542c"TRename function "calculate_Gini" to match the regular expression ^[a-z_][a-z0-9_]*$.(¹Ù¸µûÿÿÿÿ
+qpython:S117t"ZRename this local variable "Gini_list" to match the regular expression ^[_a-z][a-z0-9_]*$.(ò®®²
+xpython:S117k"aRename this local variable "skill2Ginis_dict" to match the regular expression ^[_a-z][a-z0-9_]*$.(‡¨ßà
+{python:S117s"dRename this local variable "skill2MeanGini_dict" to match the regular expression ^[_a-z][a-z0-9_]*$.(ø’’ç
+qpython:S1542i"TRename function "get_skill_Gini" to match the regular expression ^[a-z_][a-z0-9_]*$.(ÂÏøÃúÿÿÿÿ
+Jpython:S1481j"2Replace unused local variable "seq_lens" with "_".(œªâÒ
+{python:S117Œ"cRename this local variable "skill2DiffVar_dict" to match the regular expression ^[_a-z][a-z0-9_]*$.(ß‹‘—
+tpython:S1542{"WRename function "get_skill2DiffVar" to match the regular expression ^[a-z_][a-z0-9_]*$.(Èú¼»ûÿÿÿÿ
+Hpython:S1481~"1Replace unused local variable "answers" with "_".(Îú¿y
+Ipython:S1481~"2Replace unused local variable "seq_lens" with "_".(Îú¿y
+{python:S117¥"cRename this local variable "skill2DiffStd_dict" to match the regular expression ^[_a-z][a-z0-9_]*$.(¨Â‹›
+upython:S1542”"WRename function "get_skill2DiffStd" to match the regular expression ^[a-z_][a-z0-9_]*$.(ğüßÓüÿÿÿÿ
+Jpython:S1481—"2Replace unused local variable "seq_lens" with "_".(Îú¿y
+Ipython:S1481—"1Replace unused local variable "answers" with "_".(Îú¿y
+zpython:S117®"]Rename this local variable "reverseCount" to match the regular expression ^[_a-z][a-z0-9_]*$.(³ ÇŒúÿÿÿÿ
+tpython:S1542­"VRename function "get_reverseCount" to match the regular expression ^[a-z_][a-z0-9_]*$.(¡Ô¶‘úÿÿÿÿ
+zpython:S117À"bRename this local variable "reverseRatio_list" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ú‚´
+‰python:S117¿"lRename this local variable "skill2MeanReverseRatio_dict" to match the regular expression ^[_a-z][a-z0-9_]*$.(ùÃÖùÿÿÿÿ
+†python:S117·"iRename this local variable "skill2reverseRatios_dict" to match the regular expression ^[_a-z][a-z0-9_]*$.(ó¢ïùûÿÿÿÿ
+zpython:S1542µ"\Rename function "get_skill2reverseRatio" to match the regular expression ^[a-z_][a-z0-9_]*$.(´Û‹úÿÿÿÿ
+Jpython:S1481¶"2Replace unused local variable "seq_lens" with "_".(Îú¿y
+8python:S3626Ù"Remove this redundant continue.(À–¬ˆ
+Cpython:S1481ç"*Remove the unused local variable "index2".(Á’†À
+Hpython:S1481é"*Remove the unused local variable "index4".(í°®­øÿÿÿÿ
+Cpython:S1481å"*Remove the unused local variable "index1".(’Ûä×
+Cpython:S1481ê"*Remove the unused local variable "index5".(Œ®±÷
+Hpython:S1481è"*Remove the unused local variable "index3".(âîøŸûÿÿÿÿ
+7python:S125Ë"Remove this commented out code.(ÙÃ×Æ
+7python:S125ä"Remove this commented out code.(„ÂÃá
+<python:S125ì"Remove this commented out code.(ª÷³òüÿÿÿÿ
+<python:S125€"Remove this commented out code.(ï÷¶İøÿÿÿÿ
+mpython:S3776‰"TRefactor this function to reduce its Cognitive Complexity from 32 to the 15 allowed.(é™ÿé
+8python:S3626Õ"Remove this redundant continue.(À–¬ˆ
+7python:S125À"Remove this commented out code.(ÙÃ×Æ
+<python:S125•"Remove this commented out code.(Úô—ûÿÿÿÿ
+7python:S125œ"Remove this commented out code.(¤¼’Î

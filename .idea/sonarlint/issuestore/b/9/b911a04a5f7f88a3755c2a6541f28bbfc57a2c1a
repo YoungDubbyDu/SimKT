@@ -1,0 +1,7 @@
+
+5python:S125)"Remove this commented out code.(Ç¨
+;python:S1256"Remove this commented out code.(ªåÔ™øÿÿÿÿ
+epython:S100<"NRename method "_aucAppend" to match the regular expression ^[a-z_][a-z0-9_]*$.(áË”×
+epython:S100I"NRename method "_logWriter" to match the regular expression ^[a-z_][a-z0-9_]*$.(±ß­•
+hpython:S100M"QRename method "_resultWriter" to match the regular expression ^[a-z_][a-z0-9_]*$.(áÇ¶¯
+bpython:S100^"LRename method "_getTime" to match the regular expression ^[a-z_][a-z0-9_]*$.(ÔÎÀR

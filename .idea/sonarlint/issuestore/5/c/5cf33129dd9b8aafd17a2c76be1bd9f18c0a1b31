@@ -1,0 +1,7 @@
+
+jpython:S1192"MDefine a constant instead of duplicating this literal "using random" 3 times.(ï¡—Ôşÿÿÿÿ
+~python:S101"bRename class "KT_Model" to match the regular expression ^_?([A-Z_][a-zA-Z0-9]*|[a-z_][a-z0-9_]*)$.(ÇŞ…­ÿÿÿÿÿ
+5python:S125K"Remove this commented out code.(Æö•5
+;python:S125Q"Remove this commented out code.(û¦Ñ×ıÿÿÿÿ
+;python:S125m"Remove this commented out code.(¦ø¡´şÿÿÿÿ
+~python:S101}"gRename class "Fusion_Module" to match the regular expression ^_?([A-Z_][a-zA-Z0-9]*|[a-z_][a-z0-9_]*)$.(‘Ñè

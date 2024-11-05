@@ -27,4 +27,4 @@ python main_09.py
 
 If you find this work helpful or use it in your research, please consider citing our paper:
 
-> *"Question Embedding on Weighted Heterogeneous Information Network for Knowledge Tracing"*
+> *Jianwen Sun, Shangheng Du, Jianpeng Zhou, Xin Yuan, Xiaoxuan Shen, and Ruxia Liang. 2024. Question Embedding on Weighted Heterogeneous Information Network for Knowledge Tracing. ACM Trans. Knowl. Discov. Data Just Accepted (November 2024). https://doi.org/10.1145/3703158*
